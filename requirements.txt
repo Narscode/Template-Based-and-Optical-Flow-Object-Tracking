@@ -1,0 +1,12 @@
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+pandas>=2.0.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+gdown>=4.7.0
